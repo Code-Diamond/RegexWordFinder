@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RegexWordFinder/1.0.0": {
+        "runtime": {
+          "RegexWordFinder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegexWordFinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
